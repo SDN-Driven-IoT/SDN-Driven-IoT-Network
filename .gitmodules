@@ -1,0 +1,6 @@
+[submodule "controller"]
+	path = controller
+	url = https://github.com/SDN-Driven-IoT/controller.git
+[submodule "topology"]
+	path = topology
+	url = https://github.com/SDN-Driven-IoT/topology.git
